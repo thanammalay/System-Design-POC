@@ -1,4 +1,5 @@
 REST API vs GraphQL POC (Node.js)
+
 Project Structure
 poc-project/
 │
